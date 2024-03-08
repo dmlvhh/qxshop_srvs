@@ -1,0 +1,14 @@
+{
+  "mysql": {
+    "host": "192.168.1.37",
+    "port": 3306,
+    "user": "root",
+    "password": "123456",
+    "db": "qx_shop"
+  },
+  "name": "user_srv",
+  "consul": {
+    "host": "192.168.1.37",
+    "port": 8500
+  }
+}
