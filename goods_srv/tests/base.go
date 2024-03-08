@@ -22,6 +22,7 @@ func main() {
 	Init()
 	//TestGetBrandList()
 	//TestGetCategoryList()
-	TestGetSubCategoryList()
+	//TestGetSubCategoryList()
+	TestGetCategoryBrandList()
 	conn.Close()
 }
